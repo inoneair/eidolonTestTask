@@ -1,0 +1,9 @@
+Builds/
+Library/
+UserSettings/
+Assembly-CSharp.csproj
+EidolonTestTask.sln
+.vs/
+.vsconfig
+obj/
+Logs/
